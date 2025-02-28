@@ -11,7 +11,7 @@ A responsive weather application built with **React, Chakra UI, Recharts, and Op
 ---
 
 ## 📽 Demo Video
-[![Watch the demo](https://res.cloudinary.com/dgc57zjgu/image/upload/v1740728737/Interview_Skills_Workshop_Presentation_cdfgx4.png)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID_HERE)
+[![Watch the demo](https://res.cloudinary.com/dgc57zjgu/image/upload/v1740728737/Interview_Skills_Workshop_Presentation_cdfgx4.png)]()
 
 ---
 
